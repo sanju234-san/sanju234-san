@@ -9,6 +9,24 @@
 <br>
 
 <div align="center">
+  
+### 🚀 **Quick Summary**
+
+[![ML Projects](https://img.shields.io/badge/ML_Projects-5+-success?style=for-the-badge&logo=machinelearning&logoColor=white)](https://github.com/sanju234-san)
+[![Model Accuracy](https://img.shields.io/badge/Model_Accuracy-95%25+-blue?style=for-the-badge&logo=target&logoColor=white)](#)
+[![SIH Finalist](https://img.shields.io/badge/SIH_2025-Grand_Finalist-gold?style=for-the-badge&logo=trophy&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/Contributions-200+-purple?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanju234-san)
+[![IBM](https://img.shields.io/badge/IBM-AI_Certified-1261FE?style=for-the-badge&logo=IBM&logoColor=white)](#)
+
+**AI Engineer** building production-ready ML systems | **YOLOv8 Expert** | **RAG Architect** | **Open Source Contributor**
+
+📍 Delhi, India | 🎓 B.Tech CSE (AI & DS) @ SRM University | 📧 sanjeevnidhir05@gmail.com
+
+</div>
+
+<br>
+
+<div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
 </div>
 
@@ -25,7 +43,7 @@ location: Delhi, India
 education: B.Tech CSE with Data Science and AI
 university: SRM University NCR Campus (2023-2027)
 
-current_mission: |
+career_objective: |
   Passionate AI and Data Science undergraduate specializing in 
   Machine Learning, Deep Learning, and Large Language Models (LLMs).
   Building end-to-end AI solutions including Generative AI systems,
@@ -38,14 +56,73 @@ focus_areas:
   - Generative AI & Prompt Engineering
   
 achievements:
-  - SmartIndia Hackathon 2025 Grand Finalist
+  - SmartIndia Hackathon 2025 Grand Finalist (Top 0.1%)
   - IBM PBEL Virtual Internship (AI)
-  - Open Source Contributor
+  - Open Source Contributor (200+ contributions)
+  - 5+ Production ML Projects
+  
+current_stats:
+  - projects_shipped: 5
+  - model_accuracy: "95%+"
+  - github_contributions: "200+"
+  - certifications: 4
   
 motto: "Turning complex AI research into real-world solutions"
 ```
 
 <br clear="right"/>
+
+---
+
+## 📊 **Impact Metrics**
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/goal.png" width="50"/><br>
+<h3>95%+</h3>
+<p>ML Model Accuracy</p>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="50"/><br>
+<h3>5+</h3>
+<p>Production Projects</p>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/code.png" width="50"/><br>
+<h3>200+</h3>
+<p>GitHub Contributions</p>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/certificate.png" width="50"/><br>
+<h3>Top 0.1%</h3>
+<p>SIH 2025 Finalist</p>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🎯 **Technical Expertise Matrix**
+
+<div align="center">
+
+| Skill Category | Technologies | Proficiency | Projects |
+|:---|:---|:---:|---:|
+| **Machine Learning** | scikit-learn, XGBoost, Ensemble Methods | ⭐⭐⭐⭐⭐ | LoanAI, Spam Detection |
+| **Deep Learning** | TensorFlow, Keras, PyTorch, CNNs | ⭐⭐⭐⭐⭐ | VAJRAA, Image Classifier |
+| **Computer Vision** | YOLOv8, OpenCV, Image Processing | ⭐⭐⭐⭐⭐ | VAJRAA Drone System |
+| **LLM & RAG** | GPT, Llama 3, Embeddings, Vector DBs | ⭐⭐⭐⭐⭐ | Research Paper Analyzer |
+| **NLP** | TF-IDF, BERT, Text Classification | ⭐⭐⭐⭐ | DocClassify, Spam Detection |
+| **Full Stack** | React, FastAPI, REST APIs | ⭐⭐⭐⭐ | All Projects |
+| **Cloud & DevOps** | IBM Cloud, Google Cloud, Git | ⭐⭐⭐⭐ | Production Deployments |
+| **Data Engineering** | MongoDB, MySQL, Vector DBs | ⭐⭐⭐⭐ | Data Pipelines |
+
+</div>
 
 ---
 
@@ -565,12 +642,14 @@ RAG: Custom retrieval pipeline with re-ranking
 
 <div align="center">
 
-![Communication](https://img.shields.io/badge/Communication-Expert-blue?style=flat-square)
-![Problem Solving](https://img.shields.io/badge/Problem_Solving-Advanced-green?style=flat-square)
-![Critical Thinking](https://img.shields.io/badge/Critical_Thinking-Strong-orange?style=flat-square)
-![Teamwork](https://img.shields.io/badge/Teamwork-Collaborative-purple?style=flat-square)
-![Time Management](https://img.shields.io/badge/Time_Management-Efficient-red?style=flat-square)
-![Adaptability](https://img.shields.io/badge/Adaptability-Flexible-yellow?style=flat-square)
+![Communication](https://img.shields.io/badge/Communication-Expert-0077B5?style=for-the-badge&labelColor=black)
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-Advanced-00C853?style=for-the-badge&labelColor=black)
+![Critical Thinking](https://img.shields.io/badge/Critical_Thinking-Strong-FF6B35?style=for-the-badge&labelColor=black)
+![Teamwork](https://img.shields.io/badge/Teamwork-Collaborative-9C27B0?style=for-the-badge&labelColor=black)
+![Time Management](https://img.shields.io/badge/Time_Management-Efficient-FF5252?style=for-the-badge&labelColor=black)
+![Adaptability](https://img.shields.io/badge/Adaptability-Flexible-FFC107?style=for-the-badge&labelColor=black)
+![Leadership](https://img.shields.io/badge/Leadership-Team_Lead-1E88E5?style=for-the-badge&labelColor=black)
+![Innovation](https://img.shields.io/badge/Innovation-Creative_Thinker-E91E63?style=for-the-badge&labelColor=black)
 
 </div>
 
@@ -578,10 +657,186 @@ RAG: Custom retrieval pipeline with re-ranking
 
 <div align="center">
 
-![Agile](https://img.shields.io/badge/Methodology-Agile-blue?style=for-the-badge)
-![SDLC](https://img.shields.io/badge/SDLC-Full_Lifecycle-green?style=for-the-badge)
-![Version Control](https://img.shields.io/badge/Version_Control-Git-orange?style=for-the-badge)
-![Code Review](https://img.shields.io/badge/Code_Review-Active-purple?style=for-the-badge)
+![Agile](https://img.shields.io/badge/Methodology-Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![SDLC](https://img.shields.io/badge/SDLC-Full_Lifecycle-4CAF50?style=for-the-badge&logo=lifecycle&logoColor=white)
+![Version Control](https://img.shields.io/badge/Version_Control-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Code Review](https://img.shields.io/badge/Code_Review-Active-9C27B0?style=for-the-badge&logo=github&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-Automated-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Testing](https://img.shields.io/badge/Testing-TDD/BDD-FF6B6B?style=for-the-badge&logo=pytest&logoColor=white)
+![Documentation](https://img.shields.io/badge/Documentation-Comprehensive-00D9FF?style=for-the-badge&logo=markdown&logoColor=white)
+
+</div>
+
+---
+
+## 📊 **What Sets Me Apart**
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" />
+<br><br>
+<h3>🎯 Problem Solver</h3>
+<p><b>95%+ Accuracy</b> in ML models<br>
+Optimized systems for <b>real-time</b> performance<br>
+Built scalable solutions from <b>0 to 1</b></p>
+</td>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="200" />
+<br><br>
+<h3>🚀 Fast Learner</h3>
+<p>Mastered <b>YOLOv8</b> in 2 weeks<br>
+Built production <b>RAG</b> pipeline in 1 month<br>
+<b>SIH Grand Finalist</b> in first attempt</p>
+</td>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="200" />
+<br><br>
+<h3>💡 Innovator</h3>
+<p><b>5+ Production</b> projects<br>
+Active <b>Open Source</b> contributor<br>
+Always learning <b>cutting-edge</b> tech</p>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🏅 **Achievements Timeline**
+
+```mermaid
+gantt
+    title My AI/ML Journey
+    dateFormat  YYYY-MM
+    section Education
+    Started B.Tech CSE (AI & DS)           :2023-08, 2027-05
+    section Internships
+    IBM PBEL AI Internship                 :2025-07, 2025-08
+    section Hackathons
+    SmartIndia Hackathon Grand Finalist    :2025-12, 2025-12
+    section Projects
+    LoanAI Development                     :2024-09, 2025-01
+    VAJRAA Drone System                    :2025-10, 2025-12
+    Research Paper Analyzer                :2024-12, 2025-02
+    section Certifications
+    Google Cloud Gen AI                    :2025-02, 2025-02
+    Python for Data Science                :2025-01, 2025-01
+```
+
+---
+
+## 💼 **Why FAANG Should Hire Me**
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎯 **Technical Excellence**
+
+✅ **Production-Ready Code**
+- Built 5+ end-to-end ML systems
+- 95%+ model accuracy consistently
+- Optimized for real-time performance
+
+✅ **Modern Tech Stack**
+- LLMs, RAG, Computer Vision
+- Full-stack development (React + FastAPI)
+- Cloud deployment (IBM, Google Cloud)
+
+✅ **Research to Production**
+- YOLOv8 from scratch to deployment
+- Custom RAG pipeline implementation
+- Novel solutions to real problems
+
+</td>
+<td width="50%">
+
+### 🚀 **Impact & Results**
+
+✅ **Proven Track Record**
+- SIH 2025 Grand Finalist (Top 0.1%)
+- IBM AI Internship completion
+- Active open source contributor
+
+✅ **Fast Execution**
+- Built LoanAI in 4 months
+- Trained custom YOLO in 2 weeks
+- Ship quality code consistently
+
+✅ **Continuous Learning**
+- 4+ certifications in 6 months
+- Learn new frameworks rapidly
+- Stay updated with latest AI trends
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🎓 **Continuous Learning**
+
+<div align="center">
+
+### 📚 **Currently Exploring**
+
+![Advanced RAG](https://img.shields.io/badge/🔍-Advanced_RAG_Architectures-FF6B9D?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/🦜-LangChain_Agents-1C3C3C?style=for-the-badge)
+![Vector DBs](https://img.shields.io/badge/💾-Vector_Database_Optimization-4A90E2?style=for-the-badge)
+![Fine-tuning](https://img.shields.io/badge/🎯-LLM_Fine--tuning-00D9FF?style=for-the-badge)
+
+### 🎯 **Learning Goals for 2026**
+
+| Quarter | Focus Area | Target |
+|:---:|:---|:---|
+| Q1 | Advanced LLM Architectures | Build custom LLM agent framework |
+| Q2 | MLOps & Model Deployment | Deploy 3+ models to production |
+| Q3 | Deep Learning Research | Publish research paper |
+| Q4 | System Design & Scale | Build distributed ML system |
+
+</div>
+
+---
+
+## 💻 **Problem Solving & Competitive Programming**
+
+<div align="center">
+
+### 🧩 **Algorithmic Thinking**
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100"><br><br>
+<h4>Data Structures & Algorithms</h4>
+<p>Strong foundation in DSA<br>
+Optimized solutions for complex problems<br>
+Time & Space complexity analysis</p>
+</td>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100"><br><br>
+<h4>System Design</h4>
+<p>Scalable architecture design<br>
+Microservices & distributed systems<br>
+Database optimization</p>
+</td>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"><br><br>
+<h4>ML System Design</h4>
+<p>End-to-end ML pipelines<br>
+Model deployment & monitoring<br>
+Real-time inference optimization</p>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -619,6 +874,47 @@ RAG: Custom retrieval pipeline with re-ranking
 | Vector Database Optimization | Multi-Agent Systems | Open Source AI Projects |
 | Neural Network Innovations | Tool-Using AI Agents | Research Implementations |
 | Prompt Engineering Mastery | Computer Vision Apps | ML Community Projects |
+
+</div>
+
+---
+
+## 📝 **Technical Writing & Thought Leadership**
+
+<div align="center">
+
+### 💭 **Sharing Knowledge**
+
+I believe in **learning in public** and **giving back to the community**
+
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100"><br><br>
+<h4>📚 Documentation Expert</h4>
+<p>• Comprehensive project documentation<br>
+• Technical guides & tutorials<br>
+• Best practices sharing<br>
+• Code examples & snippets</p>
+</td>
+<td align="center" width="50%">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><br><br>
+<h4>🌟 Open Source Philosophy</h4>
+<p>• Active contributor to ML projects<br>
+• Code reviews & PR feedback<br>
+• Issue resolution & bug fixes<br>
+• Community engagement</p>
+</td>
+</tr>
+</table>
+
+### 🎯 **Topics I'm Passionate About**
+
+![LLM Architecture](https://img.shields.io/badge/📖-LLM_Architecture-FF6B9D?style=for-the-badge)
+![RAG Systems](https://img.shields.io/badge/📖-RAG_Systems-4A90E2?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/📖-Computer_Vision-00D9FF?style=for-the-badge)
+![ML Best Practices](https://img.shields.io/badge/📖-ML_Best_Practices-9C27B0?style=for-the-badge)
+![System Design](https://img.shields.io/badge/📖-System_Design-FF5722?style=for-the-badge)
 
 </div>
 
@@ -663,6 +959,55 @@ RAG: Custom retrieval pipeline with re-ranking
 
 ---
 
+## 🎯 **For Recruiters & Hiring Managers**
+
+<div align="center">
+
+### 💼 **Why Choose Me?**
+
+<table>
+<tr>
+<td width="33%" align="center">
+<h3>🚀 Fast Learner</h3>
+<p>• Mastered YOLOv8 in 2 weeks<br>
+• Built production RAG in 1 month<br>
+• Adapts to new tech rapidly<br>
+• Self-motivated & independent</p>
+</td>
+<td width="33%" align="center">
+<h3>💡 Problem Solver</h3>
+<p>• 95%+ ML model accuracy<br>
+• Optimizes for real-time performance<br>
+• End-to-end solution architect<br>
+• Data-driven decision maker</p>
+</td>
+<td width="33%" align="center">
+<h3>🤝 Team Player</h3>
+<p>• Open source contributor<br>
+• Excellent communicator<br>
+• Collaborative mindset<br>
+• Shares knowledge actively</p>
+</td>
+</tr>
+</table>
+
+### 📞 **Let's Talk!**
+
+I'm **actively seeking** internships and full-time opportunities in:
+
+![ML Engineering](https://img.shields.io/badge/🎯-ML_Engineering-FF6B9D?style=for-the-badge)
+![AI Research](https://img.shields.io/badge/🎯-AI_Research-4A90E2?style=for-the-badge)
+![Full Stack AI](https://img.shields.io/badge/🎯-Full_Stack_AI_Development-00D9FF?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/🎯-Computer_Vision_Engineer-9C27B0?style=for-the-badge)
+
+**Available for:** Internships (Summer 2026) | Full-time (Post Graduation 2027) | Part-time Projects
+
+**Expected Graduation:** May 2027 | **Notice Period:** Negotiable
+
+</div>
+
+---
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 </div>
@@ -677,6 +1022,21 @@ RAG: Custom retrieval pipeline with re-ranking
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="50">
 
 *Currently: Building intelligent systems at IBM PBEL | Learning in public | Documenting everything*
+
+</div>
+
+<br>
+
+<div align="center">
+  
+### 📫 **Get In Touch**
+
+**💌 Email:** sanjeevnidhir05@gmail.com  
+**📱 Phone:** +91 9310169588  
+**📍 Location:** Delhi, India  
+**🌐 Portfolio:** [github.com/sanju234-san](https://github.com/sanju234-san)
+
+**Response Time:** Within 24 hours ⚡
 
 </div>
 
