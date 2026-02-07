@@ -642,14 +642,14 @@ RAG: Custom retrieval pipeline with re-ranking
 
 <div align="center">
 
-![Communication](https://img.shields.io/badge/Communication-Expert-0077B5?style=for-the-badge&labelColor=black)
-![Problem Solving](https://img.shields.io/badge/Problem_Solving-Advanced-00C853?style=for-the-badge&labelColor=black)
-![Critical Thinking](https://img.shields.io/badge/Critical_Thinking-Strong-FF6B35?style=for-the-badge&labelColor=black)
-![Teamwork](https://img.shields.io/badge/Teamwork-Collaborative-9C27B0?style=for-the-badge&labelColor=black)
-![Time Management](https://img.shields.io/badge/Time_Management-Efficient-FF5252?style=for-the-badge&labelColor=black)
-![Adaptability](https://img.shields.io/badge/Adaptability-Flexible-FFC107?style=for-the-badge&labelColor=black)
-![Leadership](https://img.shields.io/badge/Leadership-Team_Lead-1E88E5?style=for-the-badge&labelColor=black)
-![Innovation](https://img.shields.io/badge/Innovation-Creative_Thinker-E91E63?style=for-the-badge&labelColor=black)
+![Communication](https://img.shields.io/badge/COMMUNICATION-EXPERT-0ea5e9?style=for-the-badge&labelColor=1e293b)
+![Problem Solving](https://img.shields.io/badge/PROBLEM_SOLVING-ADVANCED-22c55e?style=for-the-badge&labelColor=1e293b)
+![Critical Thinking](https://img.shields.io/badge/CRITICAL_THINKING-STRONG-f97316?style=for-the-badge&labelColor=1e293b)
+![Teamwork](https://img.shields.io/badge/TEAMWORK-COLLABORATIVE-a855f7?style=for-the-badge&labelColor=1e293b)
+![Time Management](https://img.shields.io/badge/TIME_MANAGEMENT-EFFICIENT-ef4444?style=for-the-badge&labelColor=1e293b)
+![Adaptability](https://img.shields.io/badge/ADAPTABILITY-FLEXIBLE-eab308?style=for-the-badge&labelColor=1e293b)
+![Leadership](https://img.shields.io/badge/LEADERSHIP-TEAM_LEAD-0ea5e9?style=for-the-badge&labelColor=1e293b)
+![Innovation](https://img.shields.io/badge/INNOVATION-CREATIVE_THINKER-ec4899?style=for-the-badge&labelColor=1e293b)
 
 </div>
 
@@ -657,13 +657,13 @@ RAG: Custom retrieval pipeline with re-ranking
 
 <div align="center">
 
-![Agile](https://img.shields.io/badge/Methodology-Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![SDLC](https://img.shields.io/badge/SDLC-Full_Lifecycle-4CAF50?style=for-the-badge&logo=lifecycle&logoColor=white)
-![Version Control](https://img.shields.io/badge/Version_Control-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Code Review](https://img.shields.io/badge/Code_Review-Active-9C27B0?style=for-the-badge&logo=github&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-Automated-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Testing](https://img.shields.io/badge/Testing-TDD/BDD-FF6B6B?style=for-the-badge&logo=pytest&logoColor=white)
-![Documentation](https://img.shields.io/badge/Documentation-Comprehensive-00D9FF?style=for-the-badge&logo=markdown&logoColor=white)
+![Methodology](https://img.shields.io/badge/METHODOLOGY-AGILE-64748b?style=for-the-badge&labelColor=1e293b)
+![SDLC](https://img.shields.io/badge/SDLC-FULL_LIFECYCLE-22c55e?style=for-the-badge&labelColor=1e293b)
+![Version Control](https://img.shields.io/badge/VERSION_CONTROL-GIT-f97316?style=for-the-badge&labelColor=1e293b)
+![Code Review](https://img.shields.io/badge/CODE_REVIEW-ACTIVE-a855f7?style=for-the-badge&labelColor=1e293b)
+![CI/CD](https://img.shields.io/badge/CI/CD-AUTOMATED-0ea5e9?style=for-the-badge&labelColor=1e293b)
+![Testing](https://img.shields.io/badge/TESTING-TDD/BDD-ef4444?style=for-the-badge&labelColor=1e293b)
+![Documentation](https://img.shields.io/badge/DOCUMENTATION-COMPREHENSIVE-06b6d4?style=for-the-badge&labelColor=1e293b)
 
 </div>
 
@@ -726,59 +726,6 @@ gantt
     Google Cloud Gen AI                    :2025-02, 2025-02
     Python for Data Science                :2025-01, 2025-01
 ```
-
----
-
-## 💼 **Why FAANG Should Hire Me**
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎯 **Technical Excellence**
-
-✅ **Production-Ready Code**
-- Built 5+ end-to-end ML systems
-- 95%+ model accuracy consistently
-- Optimized for real-time performance
-
-✅ **Modern Tech Stack**
-- LLMs, RAG, Computer Vision
-- Full-stack development (React + FastAPI)
-- Cloud deployment (IBM, Google Cloud)
-
-✅ **Research to Production**
-- YOLOv8 from scratch to deployment
-- Custom RAG pipeline implementation
-- Novel solutions to real problems
-
-</td>
-<td width="50%">
-
-### 🚀 **Impact & Results**
-
-✅ **Proven Track Record**
-- SIH 2025 Grand Finalist (Top 0.1%)
-- IBM AI Internship completion
-- Active open source contributor
-
-✅ **Fast Execution**
-- Built LoanAI in 4 months
-- Trained custom YOLO in 2 weeks
-- Ship quality code consistently
-
-✅ **Continuous Learning**
-- 4+ certifications in 6 months
-- Learn new frameworks rapidly
-- Stay updated with latest AI trends
-
-</td>
-</tr>
-</table>
-
-</div>
 
 ---
 
@@ -1031,7 +978,7 @@ I'm **actively seeking** internships and full-time opportunities in:
   
 ### 📫 **Get In Touch**
 
-**💌 Email:** sanjeevnidhir05@gmail.com  
+**💌 Email:** [sanjeevnidhir05@gmail.com](mailto:sanjeevnidhir05@gmail.com)  
 **📱 Phone:** +91 9310169588  
 **📍 Location:** Delhi, India  
 **🌐 Portfolio:** [github.com/sanju234-san](https://github.com/sanju234-san)
