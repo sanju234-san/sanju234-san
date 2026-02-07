@@ -126,33 +126,6 @@ motto: "Turning complex AI research into real-world solutions"
 
 ---
 
-## 📚 **Education**
-
-<table>
-<tr>
-<td width="70%">
-
-### 🎓 **B.Tech CSE with Data Science and Artificial Intelligence**
-**SRM University NCR Campus** | 2023 – 2027
-
-- Current CGPA: **6.98** (Expected 7.2 after 6th Semester)
-- Current SGPA: **7.91**
-
-</td>
-<td width="30%">
-
-### 🏫 **High School**
-**DAV Public School Pushpanjali Enclave**
-
-- Non Medical with Computer Science
-- Graduated: March 2022
-
-</td>
-</tr>
-</table>
-
----
-
 ## 🔬 **Current Research & Development**
 
 <table>
@@ -440,27 +413,7 @@ Demonstrated strong problem-solving and analytical thinking while contributing t
 </tr>
 </table>
 
----
 
-## 🚀 **Featured Projects**
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
-
-<br>
-
-### 🏦 **LoanAI - AI-Powered Loan Approval Predictions**
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Accuracy-95%25+-success?style=for-the-badge&logo=target&logoColor=white">
-  <img src="https://img.shields.io/badge/Type-FinTech-blue?style=for-the-badge&logo=stripe&logoColor=white">
-  <img src="https://img.shields.io/badge/Status-Production-green?style=for-the-badge&logo=checkmarx&logoColor=white">
-</div>
-
-<br>
-
-A cutting-edge financial technology platform leveraging ensemble machine learning to predict loan approval probabilities with **over 95% accuracy**.
 
 **🎯 Key Features:**
 - 🤖 Ensemble Machine Learning Models (XGBoost, Random Forest, Gradient Boosting)
@@ -709,18 +662,6 @@ RAG: Custom retrieval pipeline with re-ranking
 
 </div>
 
-### 🎯 **Soft Skills**
-
-<div align="center">
-
-![Communication](https://img.shields.io/badge/COMMUNICATION-EXPERT-0ea5e9?style=for-the-badge&labelColor=1e293b)
-![Problem Solving](https://img.shields.io/badge/PROBLEM_SOLVING-ADVANCED-22c55e?style=for-the-badge&labelColor=1e293b)
-![Critical Thinking](https://img.shields.io/badge/CRITICAL_THINKING-STRONG-f97316?style=for-the-badge&labelColor=1e293b)
-![Teamwork](https://img.shields.io/badge/TEAMWORK-COLLABORATIVE-a855f7?style=for-the-badge&labelColor=1e293b)
-![Time Management](https://img.shields.io/badge/TIME_MANAGEMENT-EFFICIENT-ef4444?style=for-the-badge&labelColor=1e293b)
-![Adaptability](https://img.shields.io/badge/ADAPTABILITY-FLEXIBLE-eab308?style=for-the-badge&labelColor=1e293b)
-![Leadership](https://img.shields.io/badge/LEADERSHIP-TEAM_LEAD-0ea5e9?style=for-the-badge&labelColor=1e293b)
-![Innovation](https://img.shields.io/badge/INNOVATION-CREATIVE_THINKER-ec4899?style=for-the-badge&labelColor=1e293b)
 
 </div>
 
