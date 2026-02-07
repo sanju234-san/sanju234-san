@@ -1,344 +1,300 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=AI%20INNOVATOR&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Building%20Intelligent%20Systems%20with%20Purpose&descAlignY=51&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,17,24&height=200&section=header&text=Sanjeevni%20Dhir&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Building%20Intelligent%20Agents%20That%20Think&descAlignY=55&descAlign=50" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=🤖+Machine+Learning+Engineer;🧠+Deep+Learning+Specialist;🔬+LLM+%26+RAG+Expert;🚀+Agentic+AI+Developer;⚡+IBM+PBEL+AI+Intern&font=Orbitron&center=true&width=700&height=100&duration=3000&pause=1000&size=24&color=00D9FF">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=🧠+Crafting+Intelligent+AI+Systems;🔮+LLM+%26+RAG+Architecture+Expert;🎯+Agentic+AI+%7C+Multi-Step+Reasoning;📊+ML+Research+%26+Implementation;💡+IBM+AI+Innovation+Program&font=Fira+Code&center=true&width=800&height=80&duration=4000&pause=1000&size=22&color=FF00FF">
 </div>
 
+<br>
+
 <div align="center">
-  <h1>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-    Hey, I'm <span style="background: linear-gradient(45deg, #00D9FF, #FF006E); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Sanjeevni Dhir</span>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  </h1>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
+</div>
+
+<br>
+
+## 🎭 **Who Am I?**
+
+<img align="right" alt="AI Animation" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDhxZ3R3Ym1oZGRmMzFxYjBnOW5rZW1hMGpvdXF5dG1qbWY4YnRvNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif">
+
+```yaml
+name: Sanjeevni Dhir
+role: AI/ML Engineer & Researcher
+current_mission: |
+  Building autonomous AI agents that don't just respond,
+  but reason, plan, and execute complex tasks
   
-  <p align="center">
-    <b>🚀 AI/ML Engineer | Agentic AI Specialist</b><br>
-    <b>💼 IBM PBEL AI Intern | Research Enthusiast</b><br>
-    <b>🔬 LLM & RAG Systems Developer</b>
-  </p>
-</div>
+focus_areas:
+  - Agentic AI Systems with Multi-Step Reasoning
+  - RAG Pipelines & Vector Database Optimization
+  - LLM Fine-tuning & Prompt Engineering
+  - Computer Vision & Image Captioning
+  
+motto: "AI isn't about automation—it's about augmentation"
 
-<div align="center">
-  <a href="https://linkedin.com/in/sanjeevnidhir">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:sanjeevnidhir05@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/sanjeevni2708">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
-  </a>
-  <a href="https://github.com/sanju234-san">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="400">
-</div>
-
----
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
-
-## 🌟 **THE AI ENGINEER & RESEARCHER**
-
-```python
-class AIEngineer:
-    def __init__(self):
-        self.name = "Sanjeevni Dhir"
-        self.role = "AI/ML Engineer | Agentic AI Specialist | Research Enthusiast"
-        self.current_work = "IBM PBEL AI Internship Programs"
-        self.passion = "Turning complex AI concepts into practical solutions 🚀"
-        
-    def get_current_work(self):
-        return [
-            "🤖 Machine Learning and Deep Learning projects",
-            "🧠 Agentic AI systems with tool-using capabilities",
-            "🔗 Multi-step reasoning agents",
-            "📚 LLM-based applications with RAG",
-            "💼 IBM PBEL AI internship projects"
-        ]
-        
-    def get_expertise(self):
-        return {
-            "ai_ml_core": [
-                "Machine Learning",
-                "Deep Learning",
-                "Computer Vision",
-                "Image Captioning"
-            ],
-            "llm_systems": [
-                "Large Language Models",
-                "Retrieval-Augmented Generation (RAG)",
-                "Prompt Engineering",
-                "Autonomous AI Agents"
-            ],
-            "agentic_ai": [
-                "Tool-using Agents",
-                "Multi-step Reasoning",
-                "RAG Pipelines",
-                "Vector Databases"
-            ],
-            "frameworks": [
-                "TensorFlow",
-                "Keras",
-                "Scikit-learn",
-                "Pandas",
-                "NumPy"
-            ]
-        }
-    
-    def collaboration_interests(self):
-        return [
-            "🤝 Agentic AI and LLM-based projects",
-            "🔍 RAG pipelines using vector databases",
-            "💡 Open-source AI/ML projects",
-            "📊 Research-oriented AI implementations"
-        ]
-    
-    def currently_learning(self):
-        return [
-            "📖 Advanced Machine Learning & Deep Learning",
-            "🧠 Large Language Models (LLMs)",
-            "🔗 Retrieval-Augmented Generation (RAG)",
-            "✨ Prompt engineering techniques",
-            "🤖 Scalable Agentic AI workflows"
-        ]
-
-ai_engineer = AIEngineer()
-print("Documenting my AI learning journey through real-world projects! 🚀")
+fun_fact: |
+  I turn complex research papers into working prototypes
+  and document every step on GitHub 🚀
 ```
 
+<br clear="right"/>
+
 ---
 
-## 🎯 **COMPREHENSIVE SKILL MATRIX**
+## 🔬 **Current Research & Development**
 
-### 🤖 **AI/ML EXPERTISE**
+<table>
+<tr>
+<td width="50%">
 
-<div align="center">
+### 🤖 **Agentic AI Systems**
+Building intelligent agents that:
+- 🎯 Use tools autonomously
+- 🧩 Break down complex problems
+- 🔄 Learn from multi-step reasoning
+- 🎪 Orchestrate multiple AI models
 
-**🔥 MACHINE LEARNING & DEEP LEARNING**
-<br>
-<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-<img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+**Stack**: LangChain, Vector DBs, Custom Agents
 
-**⚡ LLMs & AGENTIC AI**
-<br>
-<img src="https://img.shields.io/badge/LLMs-10a37f?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/RAG_Systems-FF6B6B?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Agentic_AI-FF3E00?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Prompt_Engineering-4285F4?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Vector_DB-8A2BE2?style=for-the-badge&logoColor=white" />
+</td>
+<td width="50%">
 
-**📊 DATA VISUALIZATION**
-<br>
-<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
-<img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" />
+### 📚 **RAG Architecture**
+Creating next-gen retrieval systems:
+- 🔍 Smart document chunking strategies
+- 💾 Optimized vector embeddings
+- 🎯 Context-aware retrieval
+- ⚡ Low-latency query processing
 
-</div>
+**Stack**: Embeddings, ChromaDB, Pinecone
 
-### 💻 **PROGRAMMING & DEVELOPMENT**
-
-<div align="center">
-
-**🌐 PROGRAMMING LANGUAGES**
-<br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" />
-<img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-<img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logoColor=white" />
-
-**🎨 WEB TECHNOLOGIES**
-<br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-
-</div>
-
-### 🛠️ **DATA & PLATFORMS**
+</td>
+</tr>
+</table>
 
 <div align="center">
-
-**💾 DATABASES**
-<br>
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-
-**⚙️ BIG DATA & TOOLS**
-<br>
-<img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" />
-
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
 
 ---
 
-## 🚀 **WHAT I'M WORKING ON**
+## 🛠️ **Technology Arsenal**
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><br>
-        <b>🤖 Agentic AI Systems</b><br>
-        <sub>LLMs • Tool-Using Agents • Multi-Step Reasoning</sub><br>
-        <em>Building autonomous AI agents with advanced reasoning</em>
-      </td>
-      <td align="center" width="50%">
-        <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100"><br>
-        <b>📚 RAG Pipelines</b><br>
-        <sub>Vector Databases • Retrieval Systems • LLMs</sub><br>
-        <em>Implementing scalable RAG architectures</em>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="100"><br>
-        <b>🧠 Deep Learning Projects</b><br>
-        <sub>TensorFlow • Keras • Computer Vision</sub><br>
-        <em>Image captioning and CV applications</em>
-      </td>
-      <td align="center" width="50%">
-        <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"><br>
-        <b>💼 IBM PBEL AI Projects</b><br>
-        <sub>Machine Learning • Research • Applied AI</sub><br>
-        <em>Professional internship implementations</em>
-      </td>
-    </tr>
-  </table>
-</div>
+<details open>
+<summary><b>🧠 AI/ML Core</b></summary>
+<br>
 
----
-
-## 📊 **GITHUB ANALYTICS**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanju234-san&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&border_radius=10&count_private=true" height="165">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=sanju234-san&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=FF006E&fire=FF006E&currStreakLabel=00D9FF&border_radius=10" height="165">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanju234-san&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_radius=10&langs_count=10" height="180">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanju234-san&bg_color=0D1117&color=00D9FF&line=FF006E&point=FFFFFF&area=true&hide_border=true&border_radius=10" height="180">
-</div>
-
----
-
-## 🏆 **GITHUB TROPHIES**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sanju234-san&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
-</div>
-
----
-
-## 💡 **CURRENTLY LEARNING & EXPLORING**
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80"><br>
-        <b>🧠 Advanced ML & DL</b><br>
-        <em>Deepening expertise in neural architectures</em>
-      </td>
-      <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80"><br>
-        <b>🤖 LLM Optimization</b><br>
-        <em>RAG performance & retrieval strategies</em>
-      </td>
-      <td align="center">
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80"><br>
-        <b>✨ Prompt Engineering</b><br>
-        <em>Advanced prompting techniques</em>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 🤝 **OPEN TO COLLABORATE ON**
+```python
+ai_toolkit = {
+    'deep_learning': ['TensorFlow', 'Keras', 'Neural Networks'],
+    'ml_frameworks': ['Scikit-learn', 'XGBoost', 'LightGBM'],
+    'data_science': ['Pandas', 'NumPy', 'Matplotlib', 'Plotly'],
+    'specializations': ['Computer Vision', 'NLP', 'Image Captioning']
+}
+```
 
 <div align="center">
   
-  💡 **Agentic AI and LLM-based projects**  
-  🔍 **RAG pipelines using vector databases**  
-  🌟 **Open-source AI/ML and data science projects**  
-  📊 **Research-oriented implementations in applied AI**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
+
+</div>
+</details>
+
+<details>
+<summary><b>🔮 LLM & Generative AI</b></summary>
+<br>
+
+```python
+llm_stack = {
+    'models': ['GPT', 'Gemini', 'Claude', 'Open Source LLMs'],
+    'techniques': ['RAG', 'Fine-tuning', 'Prompt Engineering', 'Chain-of-Thought'],
+    'frameworks': ['LangChain', 'LlamaIndex', 'Hugging Face'],
+    'agents': ['Tool-using', 'Multi-step reasoning', 'ReAct', 'Plan-and-Execute']
+}
+```
+
+<div align="center">
+
+![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=flat-square)
+![HuggingFace](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=flat-square&logoColor=black)
+![RAG](https://img.shields.io/badge/RAG_Systems-FF4088?style=flat-square)
+![Agents](https://img.shields.io/badge/Agentic_AI-00D9FF?style=flat-square)
+
+</div>
+</details>
+
+<details>
+<summary><b>💻 Development Stack</b></summary>
+<br>
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+
+**Web & UI**
+
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+
+**Data Infrastructure**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
+
+</div>
+</details>
+
+---
+
+## 📈 **GitHub Journey**
+
+<div align="center">
   
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sanju234-san&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&count_private=true&include_all_commits=true" />
+  
+  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=sanju234-san&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=bf91f3&currStreakLabel=70a5fd" />
+
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanju234-san&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&langs_count=8" />
+  
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=sanju234-san&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sanju234-san&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
 </div>
 
 ---
 
-## 💬 **ASK ME ABOUT**
+## 🎯 **Active Explorations**
 
 <div align="center">
-  
-  ✅ Machine Learning fundamentals  
-  ✅ LLMs and RAG implementations  
-  ✅ Image Captioning and Computer Vision  
-  ✅ AI internship project workflows  
-  ✅ Agentic AI system design  
-  
+
+| 🔬 **Learning** | 🛠️ **Building** | 🤝 **Collaborating** |
+|:---:|:---:|:---:|
+| Advanced LLM Architectures | Agentic AI Frameworks | RAG Pipeline Optimization |
+| Vector Database Optimization | Multi-Agent Systems | Open Source AI Projects |
+| Neural Network Innovations | Tool-Using AI Agents | Research Implementations |
+| Prompt Engineering Mastery | Computer Vision Apps | ML Community Projects |
+
 </div>
 
 ---
 
-## 🌐 **CONNECT WITH ME**
+## 💡 **Areas of Expertise**
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80"><br>
+<b>Machine Learning</b><br>
+<sub>Fundamentals to Advanced</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80"><br>
+<b>LLM & RAG</b><br>
+<sub>Implementation & Optimization</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"><br>
+<b>Computer Vision</b><br>
+<sub>Image Processing & Captioning</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80"><br>
+<b>Agentic AI</b><br>
+<sub>Autonomous Systems Design</sub>
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## 🌟 **Let's Build Together**
 
 <div align="center">
   
-  **📱 SOCIAL & PROFESSIONAL**
-  <br>
+  I'm actively seeking collaborators for:
+  
+  🤖 **Agentic AI Projects** → Multi-agent systems & autonomous workflows
+  
+  🔗 **RAG Innovations** → Novel retrieval strategies & vector optimization
+  
+  🌐 **Open Source AI** → Contributing to the community
+  
+  🔬 **Research Implementations** → Turning papers into production code
+
+</div>
+
+---
+
+## 📬 **Connect & Collaborate**
+
+<div align="center">
+  
   <a href="https://linkedin.com/in/sanjeevnidhir">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:sanjeevnidhir05@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/sanjeevni2708">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/sanju234-san">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Follow_Journey-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  
+  <a href="https://instagram.com/sanjeevni2708">
+    <img src="https://img.shields.io/badge/Instagram-Daily_Updates-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 </div>
 
 <div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-    <span style="color: #00D9FF;">"Transforming Complex AI Concepts into Practical Solutions"</span>
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-  </h2>
   
-  <p><em>🎯 Currently focused on building scalable Agentic AI systems<br>
-  💡 Documenting my AI learning journey through GitHub projects<br>
-  🌟 Let's collaborate and build the future of AI together!</em></p>
+### 💭 *Philosophy*
+
+**"The best AI systems don't replace human thinking—**  
+**they amplify it, one intelligent agent at a time."**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="50">
+
+*Currently: Building intelligent systems at IBM PBEL | Learning in public | Documenting everything*
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=sanju234-san&label=Profile%20Views&color=6&icon=5&pretty=true" />
 </div>
 
 <div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=sanju234-san&icon=0&color=0&leftColor=000000&rightColor=00D9FF&leftText=Profile%20Views" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,17,24&height=100&section=footer" width="100%"/>
 </div>
 
+---
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+  <sub>⭐ From <a href="https://github.com/sanju234-san">sanju234-san</a> with 💜 | Powered by curiosity & coffee ☕</sub>
 </div>
