@@ -202,22 +202,43 @@ llm_stack = {
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80"><br>
+<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65"><br><br>
 <b>Machine Learning</b><br>
 <sub>Fundamentals to Advanced</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80"><br>
+<br>
+<svg width="65" height="65" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+  <rect width="256" height="256" fill="#1C3C3C" rx="25"/>
+  <path d="M128 30 L220 90 L220 170 L128 230 L36 170 L36 90 Z" fill="#10A37F" stroke="#FFF" stroke-width="3"/>
+  <circle cx="128" cy="100" r="25" fill="#FFF"/>
+  <circle cx="128" cy="155" r="25" fill="#FFF"/>
+  <path d="M128 125 L128 130" stroke="#FFF" stroke-width="8"/>
+</svg><br><br>
 <b>LLM & RAG</b><br>
 <sub>Implementation & Optimization</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"><br>
+<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="65"><br><br>
 <b>Computer Vision</b><br>
 <sub>Image Processing & Captioning</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80"><br>
+<br>
+<svg width="65" height="65" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#00D9FF;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#7B2BFF;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <circle cx="128" cy="128" r="115" fill="url(#grad1)"/>
+  <circle cx="128" cy="128" r="45" fill="#FFF"/>
+  <ellipse cx="128" cy="128" rx="90" ry="30" fill="none" stroke="#FFF" stroke-width="6"/>
+  <ellipse cx="128" cy="128" rx="30" ry="90" fill="none" stroke="#FFF" stroke-width="6"/>
+</svg><br><br>
 <b>Agentic AI</b><br>
 <sub>Autonomous Systems Design</sub>
 </td>
